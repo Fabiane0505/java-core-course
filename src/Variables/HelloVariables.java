@@ -16,7 +16,7 @@ public class HelloVariables {
         // VARIÁVEIS BÁSICAS
         // ==========================
         String name = "Fabiane";
-        int age = 25;
+        int age = 19;
         double height = 1.65;
 
         // ==========================
